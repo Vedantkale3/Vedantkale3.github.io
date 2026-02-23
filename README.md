@@ -120,6 +120,7 @@ Step 4: Deploy using GitHub Pages
 https://vedantkale3.github.io/portfolio/
 
 
+
 👨‍💻 Author
 
 Name: Vedant Kale
@@ -130,6 +131,7 @@ LinkedIn: https://www.linkedin.com/in/vedant-kale-b75419292
 
 
 ⭐ If you like this portfolio, feel free to star the repository!
+
 
 
 
