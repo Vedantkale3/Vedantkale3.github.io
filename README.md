@@ -61,15 +61,18 @@ Each project includes:
 - Project Hover Zoom Effects
 - Clean & Professional UI
 
-📂 Repository Structure
+## 📂 Repository Structure
+
+```
 Vedant-Portfolio
 │
 ├── index.html
 ├── css/
 ├── js/
 ├── images/
-├── README.md
-└── assets/
+├── assets/
+└── README.md
+```
 
 ## 📸 Portfolio Preview
 
@@ -116,6 +119,7 @@ Step 4: Deploy using GitHub Pages
 🌍 Live Website
 https://vedantkale3.github.io/portfolio/
 
+
 👨‍💻 Author
 
 Name: Vedant Kale
@@ -126,5 +130,6 @@ LinkedIn: https://www.linkedin.com/in/vedant-kale-b75419292
 
 
 ⭐ If you like this portfolio, feel free to star the repository!
+
 
 
