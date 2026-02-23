@@ -70,19 +70,22 @@ Vedant-Portfolio
 ## 📸 Portfolio Preview
 
 ### 🏠 Home Section
-![Home Screenshot](Screenshots/tab_1.png)
+![Home Screenshot](tab_1.png)
 
 ### 👤 About Section
-![About Screenshot](Screenshots/tab_2.png)
+![About Screenshot](tab_2.png)
 
 ### 📄 Resume Section
-![Resume Screenshot](Screenshots/tab_3.png)
+![Resume Screenshot](tab_3.png)
 
 ### 💼 Projects Section
-![Projects Screenshot](Screenshots/tab_4.png)
+![Projects Screenshot](tab_4.png)
+
+### 💼 Projects Section
+![Projects Screenshot](tab_5.png)
 
 ### 📞 Contact Section
-![Contact Screenshot](Screenshots/tab_5.png)
+![Contact Screenshot](tab_6.png)
 
 
 🎯 Purpose
@@ -109,3 +112,4 @@ LinkedIn: https://www.linkedin.com/in/vedant-kale-b75419292
 
 
 ⭐ If you like this portfolio, feel free to star the repository!
+
