@@ -67,8 +67,7 @@ Vedant-Portfolio
 ├── README.md
 └── assets/
 
-📸 Portfolio Preview
-
+## 📸 Portfolio Preview
 
 ### 🏠 Home Section
 ![Home Screenshot](Screenshots/tab_1.png)
@@ -76,17 +75,14 @@ Vedant-Portfolio
 ### 👤 About Section
 ![About Screenshot](Screenshots/tab_2.png)
 
-### 💼 Resume Section
-![Projects Screenshot](Screenshots/tab_3.png)
+### 📄 Resume Section
+![Resume Screenshot](Screenshots/tab_3.png)
 
 ### 💼 Projects Section
 ![Projects Screenshot](Screenshots/tab_4.png)
 
-### 💼 Project Section
-![Projects Screenshot](Screenshots/tab_5.png)
-
-### 💼 Contact Section
-![Projects Screenshot](Screenshots/tab_6.png)
+### 📞 Contact Section
+![Contact Screenshot](Screenshots/tab_5.png)
 
 
 🎯 Purpose
@@ -110,5 +106,6 @@ https://vedantkale3.github.io/portfolio/
 Name: Vedant Kale
 GitHub: https://github.com/Vedantkale3
 LinkedIn: https://www.linkedin.com/in/vedant-kale-b75419292
+
 
 ⭐ If you like this portfolio, feel free to star the repository!
