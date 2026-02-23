@@ -1,4 +1,5 @@
 💼 Vedant Kale – Portfolio Website
+
 📌 Project Overview
 
 This is my personal developer portfolio website designed to showcase my projects, technical skills, achievements, certifications, and contact details.
@@ -34,8 +35,11 @@ It serves as a central hub for recruiters, collaborators, and professionals to e
 
 4️⃣ Projects Section
 - Highlighted projects include:
+
 🎵 Spotify Analytics Dashboard
+
 🏥 Medical Expense Prediction (Machine Learning)
+
 📊 Ecommerce Sales Dashboard
 
 Each project includes:
@@ -91,25 +95,36 @@ Vedant-Portfolio
 🎯 Purpose
 This portfolio demonstrates:
 ✔ Data Analytics Expertise
+
 ✔ Machine Learning Projects
+
 ✔ Frontend Development Skills
+
 ✔ Real-world Project Experience
+
 ✔ Hackathon Participation
 
 📌 How to Use
 Step 1: Clone the repository
+
 Step 2: Open index.html in your browser
+
 Step 3: Customize content if needed
+
 Step 4: Deploy using GitHub Pages
 
 🌍 Live Website
 https://vedantkale3.github.io/portfolio/
 
 👨‍💻 Author
+
 Name: Vedant Kale
+
 GitHub: https://github.com/Vedantkale3
+
 LinkedIn: https://www.linkedin.com/in/vedant-kale-b75419292
 
 
 ⭐ If you like this portfolio, feel free to star the repository!
+
 
